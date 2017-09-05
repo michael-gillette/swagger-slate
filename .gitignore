@@ -1,0 +1,10 @@
+# macos
+.DS_Store
+
+# jetbrains
+*.iml
+.idea/
+
+# java
+target/
+
